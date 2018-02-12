@@ -5,4 +5,8 @@ c = 0x4a
 
 //command: hexdump -ve '/1 "%x "' abc.txt ; echo
 //values correspond to (formatted) ASCII characters (including whitespaces)
+//values from abc.txt
 2d 36 37 33 30 20 36 38 2e 31 32 33 20 4a 20 a 
+
+//values from abc.bin
+b6 e5 fa 3e 88 42 4a 
