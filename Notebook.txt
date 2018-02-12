@@ -1,0 +1,7 @@
+//hex values of variables in screen.cpp
+a = 0xb6	0xe5
+b = 0xfa	0x3e	0x88	0x42
+c = 0x4a
+
+//values correspond to (formatted) ASCII characters (including whitespaces)
+2d 36 37 33 30 20 36 38 2e 31 32 33 20 4a 20 a 
